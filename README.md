@@ -50,6 +50,28 @@ timetables, notes, and reminders into one application.
 
 [View Repository](https://github.com/Senzar36/Aegis)
 
+---
+
+### 👨‍💼 Employee Management System
+
+A Java-based employee management application
+with a web frontend.
+
+**Tech:** Java, HTML, CSS, JavaScript
+
+[View Repository](https://github.com/Senzar36/Employee_Management_System)
+
+---
+
+### 🤖 Kai — Voice Assistant
+
+A long-term personal project exploring voice
+assistant development and intelligent systems.
+
+Currently under development.
+
+[View Repository](https://github.com/Senzar36/Kai_voice_assistant)
+
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/anirudh-dhamodaran-4a5846377/)
